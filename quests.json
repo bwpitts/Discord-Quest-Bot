@@ -1,0 +1,9 @@
+{
+    "lumber-quest": {
+        "title": "Lumber Quest",
+        "request": "The guild is looking for some lumber to bolster our defenses",
+        "item": "log",
+        "reward": "2 silver"
+    },
+    "quest2": "Quest 2"
+}
